@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Gemini Grandmaster Chess",
+  "description": "A fully regulation-accurate chess game playing against Google's Gemini AI. Features complete FIDE rule enforcement (castling, en passant, promotion), move validation, and a sleek React + Tailwind interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
